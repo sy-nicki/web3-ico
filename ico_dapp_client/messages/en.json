@@ -1,0 +1,22 @@
+{
+  "LanguageDropdownMenu": {
+    "button": "Language",
+    "dropdownMenuLabel": "Change Language",
+    "zh": "Chinese",
+    "en": "English"
+  },
+  "Navbar": {
+    "home": "Home",
+    "staking": "Staking",
+    "crypto": "Crypto",
+    "contact": "Contact"
+  },
+  "Sidebar": {
+    "dashboard":  "Dashboard",
+    "investing": "Investing",
+    "staking":  "Staking",
+    "transfer": "Transfer",
+    "pool":  "Pool",
+    "icoToken": "ICO Token"
+  }
+}

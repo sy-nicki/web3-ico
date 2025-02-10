@@ -1,0 +1,22 @@
+{
+  "LanguageDropdownMenu": {
+    "button": "语言",
+    "dropdownMenuLabel": "更改语言",
+    "zh": "中文",
+    "en": "英文"
+  },
+  "Navbar": {
+    "home": "首页",
+    "staking": "质押",
+    "crypto": "加密货币",
+    "contact": "联系"
+  },
+  "Sidebar": {
+    "dashboard": "仪表盘",
+    "investing": "投资",
+    "staking": "质押",
+    "transfer": "转账",
+    "pool": "池子",
+    "icoToken": "ICO 代币"
+  }
+}
